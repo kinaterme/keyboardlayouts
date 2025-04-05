@@ -1,0 +1,2 @@
+/usr/share/X11/xkb/symbols/cz
+/usr/share/X11/xkb/rules/evdev.xml
